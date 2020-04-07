@@ -1,0 +1,8 @@
+class Startup {
+    static main() {
+        console.log("Welcome");
+        return 0;
+    }
+}
+Startup.main();
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiU2FtcGxlVHMuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi9TYW1wbGVUcy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxNQUFNLE9BQU87SUFFRixNQUFNLENBQUMsSUFBSTtRQUVkLE9BQU8sQ0FBQyxHQUFHLENBQUMsU0FBUyxDQUFDLENBQUM7UUFDdkIsT0FBTyxDQUFDLENBQUM7SUFDYixDQUFDO0NBQ0o7QUFFRCxPQUFPLENBQUMsSUFBSSxFQUFFLENBQUMifQ==
